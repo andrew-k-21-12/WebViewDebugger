@@ -5,7 +5,7 @@ A simplest application allowing to debug WebView via Google Chrome on devices wi
 ## How it works
 
 Install the apk on Android Device (4.4 and above) and follow the steps:
--  open app
--  write url
--  go to chrome://inspect/#devices 
+-  open app on your phone
+-  write url 
+-  go to chrome://inspect/#devices on your computer
 -  PROFIT
